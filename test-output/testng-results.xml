@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-25T13:59:29 IST" name="Default suite" finished-at="2021-12-25T13:59:29 IST" duration-ms="26">
+    <groups>
+    </groups>
+    <test started-at="2021-12-25T13:59:29 IST" name="Default test" finished-at="2021-12-25T13:59:29 IST" duration-ms="26">
+      <class name="ui.LoginTest">
+        <test-method is-config="true" signature="dataSetup()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="dataSetup" finished-at="2021-12-25T13:59:29 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataSetup -->
+        <test-method is-config="true" signature="loginToApp()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="loginToApp" finished-at="2021-12-25T13:59:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method signature="loginTest()[pri:1, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="loginTest" description="login test" finished-at="2021-12-25T13:59:29 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="connectToDB()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="connectToDB" finished-at="2021-12-25T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDB -->
+        <test-method is-config="true" signature="disconnectFromDB()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="disconnectFromDB" finished-at="2021-12-25T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectFromDB -->
+        <test-method is-config="true" signature="connectToDB()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="connectToDB" finished-at="2021-12-25T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectToDB -->
+        <test-method signature="logoutTest()[pri:2, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="logoutTest" description="logout test" finished-at="2021-12-25T13:59:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutTest -->
+        <test-method is-config="true" signature="disconnectFromDB()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="disconnectFromDB" finished-at="2021-12-25T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disconnectFromDB -->
+        <test-method is-config="true" signature="logoutToApp()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="logoutToApp" finished-at="2021-12-25T13:59:29 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutToApp -->
+        <test-method is-config="true" signature="dataTearDown()[pri:0, instance:ui.LoginTest@5af3afd9]" started-at="2021-12-25T13:59:29 IST" name="dataTearDown" finished-at="2021-12-25T13:59:29 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dataTearDown -->
+      </class> <!-- ui.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
